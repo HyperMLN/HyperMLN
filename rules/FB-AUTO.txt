@@ -1,0 +1,3 @@
+inverse	make	privately_owned_vehicle	6.212186
+inverse	privately_owned_vehicle	make	0.005011
+symmetric	exterior_color	exterior_color	0.282205
